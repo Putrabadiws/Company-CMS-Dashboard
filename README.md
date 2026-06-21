@@ -50,17 +50,10 @@ Company Profile CMS is an admin dashboard that powers the public‑facing websit
 - **Per‑site scoping as a first‑class concern** — tenancy is enforced at the query layer so data never leaks between brands.
 - **Policy‑driven authorization** — resource policies are evaluated against per‑site role permissions, with friendly “no access” messaging instead of raw 403s.
 
-## Representative Source
-
-A couple of real PHP files from the codebase are included to illustrate the style and architecture:
-
-- [`app/Domains/Blog/Actions/CreateBlog.php`](app/Domains/Blog/Actions/CreateBlog.php) — single‑responsibility Action that creates a blog scoped to its tenant.
-- [`app/Domains/Blog/Services/BlogQueryService.php`](app/Domains/Blog/Services/BlogQueryService.php) — query service with per‑site scoping, filtering, and sorting.
-
 ## Brand
 
 > Visual assets shown here are brand materials from the live project.
 
 <div align="center">
-<img src="assets/bangor-group.webp" alt="Brand group" height="80" />
+<sub>© Burger Bangor Indonesia.</a></sub>
 </div>
