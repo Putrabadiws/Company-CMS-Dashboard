@@ -1,0 +1,4 @@
+# Keep GitHub's language bar focused on the project's primary language (PHP).
+# README is documentation; brand images are vendored — exclude both from stats.
+*.md       linguist-documentation
+assets/*   linguist-vendored
