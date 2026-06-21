@@ -6,7 +6,7 @@
 
 **A multi‑site content management dashboard for company‑profile websites — blog, products, promos, hero sections, store locator, and contact submissions, all behind per‑site role‑based access control.**
 
-<img src="assets/login-bg.webp" alt="Login" width="100%" />
+<img src="assets/dashboard.jpeg" alt="Login" width="60%" />
 
 </div>
 
